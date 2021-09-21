@@ -1,9 +1,9 @@
-import ExpandingCards from "./components/ExpandingCards";
+import ProgressSteps from "./components/ProgressSteps";
 
 function App() {
   return (
     <>
-      <ExpandingCards />
+      <ProgressSteps />
     </>
   );
 }
